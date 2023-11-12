@@ -1,0 +1,7 @@
+{
+  "name": "TurfTime",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
